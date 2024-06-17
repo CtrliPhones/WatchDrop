@@ -15,3 +15,5 @@ SwiftUI, the Watch Connectivity framework, patience, and suffering.
 What's wrong with you?
 
 Just build the Xcode project, you'll be fine. This was made with the Xcode 15 Beta and iOS 18 SDK, although you 100% could likely get this to work on older iOS versions, I simply don't care.
+
+Finally: **Do not expect updates, do not expect this to be reliable. This was rushed to be thrown together quickly for extremely basic functionality. Don't depend on this software.**
